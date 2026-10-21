@@ -146,11 +146,9 @@ git init
 git add .
 git commit -m "Build structured LLM JSON extractor"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/structured-llm-json-extractor.git
+git remote add origin https://github.com/gourav-ghewari07/structured-llm-json-extractor.git
 git push -u origin main
 ```
-
-Replace `YOUR-USERNAME` with your GitHub username.
 
 ## Tech stack
 

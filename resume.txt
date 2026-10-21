@@ -1,0 +1,20 @@
+Aarav Shah
+Pune, Maharashtra
+Email: aarav.shah@example.com
+Phone: +91 9876543210
+
+Summary:
+Entry-level data science student interested in Python automation and data analysis.
+
+Skills:
+Python, SQL, Power BI, Pandas, Excel, Prompt Engineering
+
+Education:
+Bachelor's degree in Data Science Engineering, expected 2027
+
+Projects:
+Sales Dashboard - Built an interactive Power BI dashboard to analyze sales trends.
+Resume Parser - Created a Python prototype to extract resume details into JSON.
+
+Certifications:
+Python Programming Fundamentals
